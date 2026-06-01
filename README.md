@@ -59,9 +59,6 @@ Tenant Root Group
 └──      └── Student: SecLab-Production Subscription
 └── Security
 
-<img width="1915" height="517" alt="management group" src="https://github.com/user-attachments/assets/cd99b9c8-49d5-4459-b1c9-3b7f7a44bd61" />
-
-
 
 Four resource groups with mandatory tags:
 
@@ -72,6 +69,8 @@ rg-seclab-storage      — Key Vault, Storage Account
 
 <details>
 <summary>Phase 1 screenshots</summary>
+
+<img width="1915" height="517" alt="management group" src="https://github.com/user-attachments/assets/cd99b9c8-49d5-4459-b1c9-3b7f7a44bd61" />
 
 <img width="1914" height="681" alt="azure policy" src="https://github.com/user-attachments/assets/daa4556a-4433-4a39-8a22-f7aebaa70de7" />
 
