@@ -185,6 +185,10 @@ UDR: Without User Defined Routes, Azure peering system routes allow direct spoke
 <details>
 <summary>Phase 3 screenshots</summary>
 
+
+<img width="1536" height="1024" alt="update_AZ" src="https://github.com/user-attachments/assets/77046454-badb-475b-a4dd-cd88d69cbdc7" />
+
+
 <img width="1439" height="661" alt="vnet1" src="https://github.com/user-attachments/assets/d97b1c99-803d-415f-bea4-2cead0f48429" />
 
 <img width="1439" height="617" alt="vnets" src="https://github.com/user-attachments/assets/b56fa1e4-74e1-4294-9ff3-85ec4ec5e404" />
